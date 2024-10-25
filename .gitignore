@@ -1,0 +1,5 @@
+# Docker specific
+*.env
+
+# MinIO data directory
+minio_data/
